@@ -1,0 +1,7 @@
+flask
+flask-login
+qrcode
+Pillow
+reportlab
+arabic-reshaper
+python-bidi
